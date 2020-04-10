@@ -1,5 +1,9 @@
 body{
-    background: red;
+    background: gray;
+}
+
+#header img{
+    width: 80px;
 }
 
 #footer{
@@ -8,4 +12,8 @@ body{
 
 #footer a{
     color: white;
+}
+
+.text-platzi{
+    color: #97c93e !important;
 }
